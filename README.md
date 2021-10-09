@@ -1,1 +1,1 @@
-# Iosevka-Carrot
+# Iosevka Carrot
