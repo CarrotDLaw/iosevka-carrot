@@ -1,0 +1,48 @@
+[buildPlans.iosevka-carrot]
+family = "Iosevka Carrot"
+spacing = "quasi-proportional"
+serifs = "sans"
+no-cv-ss = false
+no-ligation = true
+
+[buildPlans.iosevka-carrot.variants.design]
+capital-d = "more-rounded-serifless"
+capital-i = "serifless"
+capital-j = "serifless"
+capital-m = "flat-bottom"
+capital-w = "straight-flat-top"
+f = "flat-hook"
+i = "serifless"
+j = "flat-hook-serifless"
+l = "serifless"
+t = "flat-hook"
+w = "straight-flat-top"
+y = "straight-turn"
+two = "straight-neck"
+three = "flat-top"
+seven = "straight-crossbar"
+eight = "crossing-asymmetric"
+at = "fourfold"
+dollar = "open"
+cent = "open"
+percent = "rings-continuous-slash"
+
+
+[buildPlans.iosevka-carrot-mono]
+family = "Iosevka Carrot Mono"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = false
+
+[buildPlans.iosevka-carrot-mono.variants.design]
+capital-d = "more-rounded-serifless"
+w = "straight-flat-top"
+y = "straight-turn"
+two = "straight-neck"
+three = "flat-top"
+seven = "straight-crossbar"
+eight = "crossing-asymmetric"
+at = "fourfold"
+dollar = "open"
+cent = "open"
+percent = "rings-continuous-slash"
