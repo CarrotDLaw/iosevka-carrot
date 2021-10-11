@@ -51,10 +51,10 @@ Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka#customized-buil
 
 ### Iosevka Carrot Mono Extended
 
-![[images/Pasted image 20211011213606.png]]
-![[images/Pasted image 20211011214409.png]]
-![[images/Pasted image 20211011215512.png]]
-![[images/Pasted image 20211011215519.png]]
+![](images/Pasted%20image%2020211011222027.png)
+![](images/Pasted%20image%2020211011222008.png)
+![](images/Pasted%20image%2020211011215512.png)
+![](images/Pasted%20image%2020211011215519.png)
 
 ## Demo Code
 ```cpp
