@@ -3,7 +3,8 @@
 **Iosevka Carrot** is an *open source, sans-serif, monospace + quasi‑proportional* typeface family, customised from the original [Iosevka](http://be5invis.github.io/Iosevka).  
 TTF files of **2 variants** with **all** weights, slopes and widths are available for download in the [Release Page]().
 
-## Font variants
+## Font Variants
+
 
 
 ## Download and Installation
@@ -12,10 +13,11 @@ Download the fonts from the [Release Page]() in this repository. Unzip and open 
 
 - **Instructions for Linux**: Copy the TTF files to your fonts directory, usually in your Home directory `~/.local/share/fonts/` . Then, run `sudo fc-cache -f -v`. For refreshing Font Cache in your system.
 - **[Instructions for macOS](http://support.apple.com/kb/HT2509)**: Right click on TTF font files, and install it with FontBook App.
-- **Instructions for Windows**: Download the fonts from the [Releases Page](), select the font files and right click, then click "Install for all users" (RECOMMENDED) or "Install".
+- **Instructions for Windows**: Download the fonts from the [Releases Page](), select the font files and right click, then click “Install for all users” (RECOMMENDED) or “Install”.
   - Since Windows 10 1809, the default font installation is per-user, and it may cause compatibility issues for some applications, mostly written in Java. To cope with this, right click and select "Install for all users" instead. [Reference](https://youtrack.jetbrains.com/issue/JRE-1166?p=IDEA-200145)
 
-## Settings for code editors
+## Settings for Code Editors
+
 
 
 ## Customised Build
@@ -39,3 +41,10 @@ To create a custom build of Iosevka, you need:
    5. `woff2::<plan>` : WOFF2 only.
 
 Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka#customized-build) for more information.
+
+## Demo
+
+
+
+## Thank You
+
