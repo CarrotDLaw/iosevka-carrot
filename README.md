@@ -7,9 +7,8 @@ TTF files of **2 variants** with **all** weights, slopes and widths are availabl
 
 ### Iosevka Carrot
 
-![](images/Screenshot_20211012_163849.png)
-![](images/Screenshot_20211012_164045.png)
-
+![](images/fv_ic_m.png)
+![](images/fv_ic_m_i.png)
 
 ### Iosevka Carrot Extended
 
@@ -31,10 +30,10 @@ TTF files of **2 variants** with **all** weights, slopes and widths are availabl
 
 ### Iosevka Carrot Mono Extended
 
-![](images/Pasted%20image%2020211011222027.png)
-![](images/Pasted%20image%2020211011222008.png)
-![](images/Pasted%20image%2020211011215512.png)
-![](images/Pasted%20image%2020211011215519.png)
+![](images/demo_icme_vs_code_1.png)
+![](images/demo_icme_vs_code_2.png)
+![](images/demo_icme_obsidian_1.png)
+![](images/demo_icme_obsiidan_2.png)
 
 ## Download and Installation
 
