@@ -5,7 +5,36 @@ TTF files of **2 variants** with **all** weights, slopes and widths are availabl
 
 ## Font Variants
 
+### Iosevka Carrot
 
+![](images/Screenshot_20211012_163849.png)
+![](images/Screenshot_20211012_164045.png)
+
+
+### Iosevka Carrot Extended
+
+
+
+### Iosevka Carrot Mono
+
+
+
+### Iosevka Carrot Mono Extended
+
+
+
+## Demo
+
+### Iosevka Carrot Extended
+
+
+
+### Iosevka Carrot Mono Extended
+
+![](images/Pasted%20image%2020211011222027.png)
+![](images/Pasted%20image%2020211011222008.png)
+![](images/Pasted%20image%2020211011215512.png)
+![](images/Pasted%20image%2020211011215519.png)
 
 ## Download and Installation
 
@@ -41,21 +70,6 @@ To create a custom build of Iosevka, you need:
    5. `woff2::<plan>` : WOFF2 only.
 
 Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka#customized-build) for more information.
-
-## Demo
-
-
-
-### Iosevka Carrot Extended
-
-
-
-### Iosevka Carrot Mono Extended
-
-![](images/Pasted%20image%2020211011222027.png)
-![](images/Pasted%20image%2020211011222008.png)
-![](images/Pasted%20image%2020211011215512.png)
-![](images/Pasted%20image%2020211011215519.png)
 
 ## Thank You
 
