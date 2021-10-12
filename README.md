@@ -56,7 +56,7 @@ If you type the font name manually or use it in CSS, note that the suffix `Expan
 
 ### VS Code
 
-To use the font, open `Settings/User/Text Editor/Font/Fonts Family`, type in `Iosevka Carrot Mono` or `Iosevka Carrot Mono Expanded`.
+To use the font, open `Settings > User > Text Editor > Font > Fonts Family`, type in `Iosevka Carrot Mono` or `Iosevka Carrot Mono Expanded`.
 
 To turn on ligatures, or for more information, refer to this [guide](https://www.alphr.com/vs-code-how-to-change-font/).
 
