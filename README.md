@@ -11,7 +11,7 @@ TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **a
 ![](images/fv_ic_m.png)
 ![](images/fv_ic_m_i.png)
 
-### Iosevka Carrot Extended — Quasi-proportioanl
+### Iosevka Carrot Extended — Quasi-proportional
 
 ![](images/fv_ice_m.png)
 ![](images/fv_ice_m_i.png)
