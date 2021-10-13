@@ -84,4 +84,4 @@ Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka#customized-buil
 
 ## Thank You
 
-Thank you to Belleve Invis, their developers, and contributors. Don't forget to check and download original Iosevka Font from [Iosevka's Website](https://typeof.net/Iosevka/) or [Iosevka's GitHub Page](https://github.com/be5invis/Iosevka).  
+Thank you to Belleve Invis, their developers, and contributors. Don't forget to check and download original Iosevka Font from [Iosevka's Website](https://typeof.net/Iosevka/) or [Iosevka's GitHub Repository](https://github.com/be5invis/Iosevka).  
