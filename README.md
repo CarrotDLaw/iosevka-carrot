@@ -52,7 +52,7 @@ Download the fonts from the [Release Page](https://github.com/CarrotDLaw/Iosevka
 
 Choose the font in the font list in any program and enjoy it!
 
-If you type the font name manually or use it in CSS, note that the suffix `Expanded` should be used instead of `Extended` for Iosevka Carrot Extended or Iosevka Carrot Mono Extended.
+When specifying font name, use `Iosevka Carrot Expanded` and `Iosevka Carrot Mono Expanded` if 'Iosevka Carrot Extended' and 'Iosevka Carrot Extended' does not work.
 
 ### VS Code
 
