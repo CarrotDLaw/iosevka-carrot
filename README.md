@@ -1,4 +1,4 @@
-# Iosevka Carrot ![GitHub release (latest by date)](https://img.shields.io/github/v/release/CarrotDLaw/Iosevka-Carrot?label=latest%20release)
+# Iosevka Carrot [![GitHub release (latest by date)](https://img.shields.io/github/v/release/CarrotDLaw/Iosevka-Carrot?label=latest%20release)](https://github.com/CarrotDLaw/Iosevka-Carrot/releases)
 
 **Iosevka Carrot** is an *open source, sans-serif, monospace + quasi‑proportional* typeface family, customised from the original [Iosevka](http://be5invis.github.io/Iosevka).  
 
