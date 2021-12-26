@@ -80,7 +80,7 @@ To create a custom build of Iosevka, you need:
    4. `webfont::<plan>` : Web fonts only (CSS + WOFF2);
    5. `woff2::<plan>` : WOFF2 only.
 
-Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka#customized-build) for more information.
+Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
 
 ## Thank You
 
