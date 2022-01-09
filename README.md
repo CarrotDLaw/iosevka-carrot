@@ -43,20 +43,24 @@ TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **a
 
 Download the fonts from the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases) in this repository. Unzip and open the folder `/iosevka-carrot`.
 
-- **Instructions for Linux**: Copy the TTF files to your fonts directory, usually in your Home directory `~/.local/share/fonts/` . Then, run `sudo fc-cache -f -v`. For refreshing Font Cache in your system.
-- **[Instructions for macOS](http://support.apple.com/kb/HT2509)**: Right click on TTF font files, and install it with FontBook App.
-- **Instructions for Windows**: Select the font files and right click, then click “Install for all users” (RECOMMENDED) or “Install”.
-  - Since Windows 10 1809, the default font installation is per-user, and it may cause compatibility issues for some applications, mostly written in Java. To cope with this, right click and select "Install for all users" instead. [Reference](https://youtrack.jetbrains.com/issue/JRE-1166?p=IDEA-200145)
+- **[Instructions for Linux](https://wiki.archlinux.org/title/fonts#Manual_installation)**: 
+  - For a single user, install fonts to `~/.local/share/fonts/`. 
+  - For system-wide (all users) installation, place your fonts under `/usr/local/share/fonts/`. 
 
-## Settings and Use
+- **[Instructions for macOS](http://support.apple.com/HT2509)**: Right click on font files, and install it with FontBook app.
+
+- **Instructions for Windows**: Select the font files and right click, then click “Install for all users” (RECOMMENDED) or “Install”.
+  - Since Windows 10 1809, the default font installation is per-user, and it may cause compatibility issues for some applications, mostly written in Java. To cope with this, right click and select "Install for all users" instead. Check [reference](https://youtrack.jetbrains.com/issue/JRE-1166?p=IDEA-200145).
+
+## Use and Settings
 
 Choose the font in the font list in any program and enjoy it!
 
-When specifying font name, use `Iosevka Carrot Expanded` and `Iosevka Carrot Mono Expanded` if 'Iosevka Carrot Extended' and 'Iosevka Carrot Extended' does not work.
+When specifying font name, try `Iosevka Carrot Expanded` and `Iosevka Carrot Mono Expanded` if `Iosevka Carrot Extended` and `Iosevka Carrot Extended` does not work.
 
 ### VS Code
 
-To use the font, open `Settings > User > Text Editor > Font > Fonts Family`, type in `Iosevka Carrot Mono` or `Iosevka Carrot Mono Expanded`.
+To use the font, open `Settings > User > Text Editor > Font > Fonts Family`, type `Iosevka Carrot Mono` or `Iosevka Carrot Mono Expanded`.
 
 To turn on ligatures, or for more information, refer to this [guide](https://www.alphr.com/vs-code-how-to-change-font/).
 
@@ -80,7 +84,7 @@ To create a custom build of Iosevka, you need:
    4. `webfont::<plan>` : Web fonts only (CSS + WOFF2);
    5. `woff2::<plan>` : WOFF2 only.
 
-Refer to [Iosevka/README.md](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
+Refer to [Iosevka README.md](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
 
 ## Thank You
 
