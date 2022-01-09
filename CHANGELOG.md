@@ -1,9 +1,5 @@
 # CHANGELOG since Iosevka Carrot v10.3.1
 
-## [Unreleased]
-
---
-
 ## [v11.2.2] — 2021.12.26
 - Changed style for the following characters
     - Digit Seven (`U+0037`)
