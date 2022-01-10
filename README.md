@@ -2,7 +2,7 @@
 
 **Iosevka Carrot** is an *open source, sans-serif, monospace + quasi‑proportional* typeface family, customised from the original [Iosevka](http://be5invis.github.io/Iosevka).  
 
-TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check `private-build-plans.toml` for detailed configuration of the fonts.
+TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
 
 ## Font Variants
 
