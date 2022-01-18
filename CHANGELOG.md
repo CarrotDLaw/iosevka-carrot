@@ -2,6 +2,7 @@
 
 ## [v11.2.2] — 2021.12.26
 - Changed style for the following characters:
+  - Iosevka Carrot
     - Digit Seven (`U+0037`)
     - Digit Zero (`U+0030`)
 - Updated copyright message.
