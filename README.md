@@ -4,6 +4,9 @@
 
 TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
 
+** 
+I am sorry to announce that by June 2022, this project will not receive important updates. Exciting features are coming soon then! Thank you for your support and stay tuned.
+
 ## Font Variants
 
 ### Iosevka Carrot — Quasi-proportional
