@@ -44,7 +44,7 @@ I am sorry to announce that by June 2022, this project will not receive importan
 
 ## Download and Installation
 
-Download the fonts from the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases) in this repository. Unzip and open the folder `/iosevka-carrot`.
+Download the fonts from the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases) in this repository. Quit your programs. Unzip and open the folder.
 
 - **[Instructions for Linux](https://wiki.archlinux.org/title/fonts#Manual_installation)**: 
   - For a single user, install fonts to `~/.local/share/fonts/`. 
