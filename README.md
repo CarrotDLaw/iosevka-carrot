@@ -2,7 +2,7 @@
 
 **Iosevka Carrot** is an *open source, sans-serif, monospace + quasi‑proportional* typeface family, customised from the original [Iosevka](http://be5invis.github.io/Iosevka).  
 
-TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono** with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
+TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono**, with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
 
 ** 
 I am sorry to announce that by June 2022, this project will not receive important updates. Exciting features are coming soon then! Thank you for your support and stay tuned.
@@ -87,8 +87,12 @@ To create a custom build of Iosevka, you need:
    4. `webfont::<plan>` : Web fonts only (CSS + WOFF2);
    5. `woff2::<plan>` : WOFF2 only.
 
-Refer to [Iosevka README.md](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
+Refer to the [Iosevka documentation](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
+For Linux users, refer to the [guide](https://github.com/Iosevka-Mayukai/HowToBuild) from [Iosevka Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) as well.
 
 ## Thank You
 
-Thank you to Belleve Invis, their developers, and contributors. Don't forget to check and download original Iosevka Font from [Iosevka's Website](https://typeof.net/Iosevka/) or [Iosevka's GitHub Repository](https://github.com/be5invis/Iosevka).  
+- [Belleve Invis](https://github.com/be5invis)
+- [Iosevka Mayukai](https://github.com/Iosevka-Mayukai)
+- [Adam Kruszewski](https://github.com/adamkruszewski)
+- All contributors
