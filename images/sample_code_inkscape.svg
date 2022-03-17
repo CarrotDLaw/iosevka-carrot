@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 101.39256 11.25569"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="sample_code_inkscape.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="14.949816"
+     inkscape:cx="79.198298"
+     inkscape:cy="-3.8796463"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     units="px"
+     lock-margins="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.759015,-100.46633)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.670605"
+       y="78.761932"
+       id="text1317"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.670605"
+         y="78.761932"
+         id="tspan2111" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';stroke-width:0.264583"
+       x="48.081932"
+       y="102.97599"
+       id="text17395"><tspan
+         sodipodi:role="line"
+         id="tspan17393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="48.081932"
+         y="102.97599"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5079be"
+   id="tspan5467">SAMPLE_CODE</tspan>(TestMyTypefaceCodeSnippet, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan11441">&quot;Iosevka Carrot Sans&quot;</tspan>, DARK) { <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999"
+   id="tspan38619">// The qucik brown fox jumps over the lazy dog.</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="48.081932"
+         y="104.73988"
+         id="tspan34583">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5079be"
+   id="tspan10305">const</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan30541">wchar_t</tspan>* code <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan64317">=</tspan> L<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan20261">&quot;(&lt;#part&gt;</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan32651">\\d+</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan25533">)(&lt;#captrue&gt;(&lt;section&gt;(&lt;&amp;part&gt;)))((&lt;&amp;capture&gt;)</tspan>.<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan77455">)</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan73859">{3}</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan28331">(&lt;&amp;capture&gt;)&quot;</tspan>;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="48.081932"
+         y="106.50377"
+         id="tspan36565">    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan31449">RegexNode</tspan> node <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan62917">=</tspan> (rCapture(L&quot;section&quot;, r_d().Some()) <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan68173">+</tspan> rC(L<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan36043">'.'</tspan>)).Loop(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad1387"
+   id="tspan49375">3</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ad1387"
+   id="tspan51213">3</tspan>) <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#994cc3"
+   id="tspan70941">+</tspan> rCapture(L<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d67070"
+   id="tspan78069">&quot;section&quot;</tspan>, r_d().Some());</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="48.081932"
+         y="108.26765"
+         id="tspan38811">    ThePatternMustBeSame(code, node); <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080"
+   id="tspan41405">// Clarity : [i l I 1] [0 O 8] 1234567890. {}[]()&lt;&gt;$*-+=/#_%^@\&amp;|~?'&quot;`!,.;:</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Iosevka Carrot Sans';-inkscape-font-specification:'Iosevka Carrot Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="48.081932"
+         y="110.03154"
+         id="tspan89828">}</tspan></text>
+  </g>
+</svg>
