@@ -90,7 +90,11 @@ To create a custom build of Iosevka, you need:
 Refer to the [Iosevka documentation](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
 For Linux users, refer to the [guide](https://github.com/Iosevka-Mayukai/HowToBuild) from [Iosevka Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) as well.
 
-## Thank You
+## Licence
+
+This font software is licenced under the SIL Open Font Licence, Version 1.1. This licence is available with a FAQ at: http://scripts.sil.org/OFL.
+
+## Acknowledgment
 
 - [Belleve Invis](https://github.com/be5invis)
 - [Iosevka Mayukai](https://github.com/Iosevka-Mayukai)
