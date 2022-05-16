@@ -1,31 +1,72 @@
-[buildPlans.iosevka-carrot]
-family = "Iosevka Carrot"
+[buildPlans.iosevka-carrot-sans]
+family = "Iosevka Carrot Sans"
 spacing = "quasi-proportional"
 serifs = "sans"
 no-cv-ss = false
-no-ligation = true
 
-[buildPlans.iosevka-carrot.variants.design]
+[buildPlans.iosevka-carrot-sans.variants.design]
 capital-d = "more-rounded-serifless"
+capital-g = "toothless-corner-serifless-hooked"
 capital-i = "serifless"
 capital-j = "serifless"
 capital-m = "flat-bottom"
+capital-q = "crossing"
 capital-w = "straight-flat-top"
+a = "double-storey-tailed"
+d = "tailed-serifless"
 f = "flat-hook"
 i = "serifless"
 j = "flat-hook-serifless"
-l = "serifless"
+l = "tailed"
+q = "diagonal-tailed"
+r = "compact"
 t = "flat-hook"
+u = "tailed"
 w = "straight-flat-top"
 y = "straight-turn"
 zero = "dotted"
 two = "straight-neck"
 three = "flat-top"
+five = "oblique-upper-left-bar"
 eight = "crossing-asymmetric"
-at = "fourfold"
+at = "short"
 dollar = "open"
 cent = "open"
 percent = "rings-continuous-slash"
+
+[buildPlans.iosevka-carrot-sans.variants.italic]
+f = "flat-hook-tailed"
+h = "tailed"
+i = "tailed"
+k = "diagonal-tailed-cursive-serifless"
+m = "tailed"
+n = "tailed"
+r = "serifless"
+v = "cursive"
+w = "cursive"
+x = "cursive"
+y = "cursive"
+z = "cursive"
+
+[buildPlans.iosevka-carrot-sans.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.iosevka-carrot-sans.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.iosevka-carrot-sans.widths.normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[collectPlans.iosevka-carrot-sans]
+from = ["iosevka-carrot-sans"]
 
 
 [buildPlans.iosevka-carrot-mono]
@@ -36,13 +77,53 @@ no-cv-ss = false
 
 [buildPlans.iosevka-carrot-mono.variants.design]
 capital-d = "more-rounded-serifless"
+capital-g = "toothless-corner-serifless-hooked"
+capital-j = "serifed-both-sides"
+capital-q = "crossing"
+l = "tailed-serifed"
+q = "diagonal-tailed"
 w = "straight-flat-top"
 y = "straight-turn"
+zero = "dotted"
 two = "straight-neck"
 three = "flat-top"
-seven = "straight-crossbar"
+five = "oblique-upper-left-bar"
 eight = "crossing-asymmetric"
-at = "fourfold"
+at = "short"
 dollar = "open"
 cent = "open"
 percent = "rings-continuous-slash"
+
+[buildPlans.iosevka-carrot-mono.variants.italic]
+a = "double-storey-tailed"
+d = "tailed-serifless"
+f = "tailed"
+h = "tailed"
+k = "diagonal-tailed-cursive-serifless"
+m = "tailed"
+n = "tailed"
+v = "cursive"
+w = "cursive"
+x = "cursive"
+y = "cursive"
+z = "cursive"
+
+[buildPlans.iosevka-carrot-mono.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.iosevka-carrot-mono.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.iosevka-carrot-mono.widths.normal]
+shape = 600
+menu = 5
+css = "normal"
+
+[collectPlans.iosevka-carrot-mono]
+from = ["iosevka-carrot-mono"]

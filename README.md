@@ -2,45 +2,33 @@
 
 **Iosevka Carrot** is an *open source, sans-serif, monospace + quasi‑proportional* typeface family, customised from the original [Iosevka](http://be5invis.github.io/Iosevka).  
 
-TTF files of 2 variants, **Iosevka Carrot** and **Iosevka Carrot Mono**, with **all** weights, slopes, and widths are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
+TTF files of 2 variants, **Iosevka Carrot Sans** and **Iosevka Carrot Mono** with 2 slopes and 9 widths, are available for download in the [Release Page](https://github.com/CarrotDLaw/Iosevka-Carrot/releases). Check [`private-build-plans.toml`](https://github.com/CarrotDLaw/Iosevka-Carrot/blob/main/private-build-plans.toml) for detailed configuration of the fonts.
 
-** 
-I am sorry to announce that by June 2022, this project will not receive important updates. Exciting features are coming soon then! Thank you for your support and stay tuned.
+![](images/sample_code_icm.svg)
+![](images/sample_code_ics.svg)
 
 ## Font Variants
 
-### Iosevka Carrot — Quasi-proportional
-
-![](images/fv_ic_m.png)
-![](images/fv_ic_m_i.png)
-
-### Iosevka Carrot Extended — Quasi-proportional
-
-![](images/fv_ice_m.png)
-![](images/fv_ice_m_i.png)
-
 ### Iosevka Carrot Mono — Monospace
 
-![](images/fv_icm_m.png)
-![](images/fv_icm_m_i.png)
+![](images/fv_icm_r.png)
+![](images/fv_icm_r_i.png)
 
-### Iosevka Carrot Mono Extended — Monospace
+### Iosevka Carrot Sans — Quasi-proportional
 
-![](images/fv_icme_m.png)
-![](images/fv_icme_m_i.png)
+![](images/fv_ics_r.png)
+![](images/fv_ics_r_i.png)
 
-## Screenshots
+## Demo Screenshots
 
-### Iosevka Carrot Extended
+### Iosevka Carrot Mono
 
-![](images/demo_ice_m_libreoffice_writer_1.png)
+![](images/demo_icm_1.png)
+![](images/demo_icm_2.png)
 
-### Iosevka Carrot Mono Extended
+### Iosevka Carrot Sans
 
-![](images/demo_icme_vs_code_1.png)
-![](images/demo_icme_vs_code_2.png)
-![](images/demo_icme_obsidian_1.png)
-![](images/demo_icme_obsiidan_2.png)
+![](images/demo_ics_1.png)
 
 ## Download and Installation
 
@@ -49,52 +37,34 @@ Download the fonts from the [Release Page](https://github.com/CarrotDLaw/Iosevka
 - **[Instructions for Linux](https://wiki.archlinux.org/title/fonts#Manual_installation)**: 
   - For a single user, install fonts to `~/.local/share/fonts/`. 
   - For system-wide (all users) installation, place your fonts under `/usr/local/share/fonts/`. 
+  - Run `sudo fc-cache`
 
 - **[Instructions for macOS](http://support.apple.com/HT2509)**: Right click on font files, and install it with FontBook app.
 
-- **Instructions for Windows**: Select the font files and right click, then click “Install for all users” (RECOMMENDED) or “Install”.
+- **Instructions for Windows**: Select the font files and right click, then click 'Install for all users' (RECOMMENDED) or 'Install'.
   - Since Windows 10 1809, the default font installation is per-user, and it may cause compatibility issues for some applications, mostly written in Java. To cope with this, right click and select "Install for all users" instead. Check [reference](https://youtrack.jetbrains.com/issue/JRE-1166?p=IDEA-200145).
 
 ## Use and Settings
 
 Choose the font in the font list in any program and enjoy it!
 
-When specifying font name, try `Iosevka Carrot Expanded` and `Iosevka Carrot Mono Expanded` if `Iosevka Carrot Extended` and `Iosevka Carrot Extended` does not work.
-
 ### VS Code
 
-To use the font, open `Settings > User > Text Editor > Font > Fonts Family`, type `Iosevka Carrot Mono` or `Iosevka Carrot Mono Expanded`.
+To use the font, open `Settings > User > Text Editor > Font > Fonts Family` and type `Iosevka Carrot Mono`.
 
 To turn on ligatures, or for more information, refer to this [guide](https://www.alphr.com/vs-code-how-to-change-font/).
 
 ## Customised Build
 
-To create a custom build of Iosevka, you need:
-
-1. Clone the source of [Iosevka](https://github.com/be5invis/Iosevka).
-
-2. Copy `private-build-plans.toml` file in this repository and place it into the build source.
-
-3. Ensure that [`nodejs`](http://nodejs.org) (≥ 12.16.0) and [`ttfautohint`](http://www.freetype.org/ttfautohint/) are present, and accessible from `PATH`.
-
-4. Run `npm install`. This command will install **all** the NPM dependencies, and will also validate whether external dependencies are present.
-   
-5. Run `npm run build -- contents::<your plan name>` and the built fonts would be available in `dist/`. Aside from `contents::<plan>`, other options are:
-
-   1. `contents::<plan>` : TTF (Hinted and Unhinted), WOFF(2) and Web font CSS;
-   2. `ttf::<plan>` : TTF;
-   3. `ttf-unhinted::<plan>` : Unhinted TTF only;
-   4. `webfont::<plan>` : Web fonts only (CSS + WOFF2);
-   5. `woff2::<plan>` : WOFF2 only.
-
 Refer to the [Iosevka documentation](https://github.com/be5invis/Iosevka/blob/master/doc/custom-build.md) for more information.
+
 For Linux users, refer to the [guide](https://github.com/Iosevka-Mayukai/HowToBuild) from [Iosevka Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) as well.
 
 ## Licence
 
-This font software is licenced under the SIL Open Font Licence, Version 1.1. This licence is available with a FAQ at: http://scripts.sil.org/OFL.
+This font software is licensed under the SIL Open Font Licence, Version 1.1. This licence is available with a FAQ at: http://scripts.sil.org/OFL.
 
-## Acknowledgment
+## Acknowledgments
 
 - [Belleve Invis](https://github.com/be5invis)
 - [Iosevka Mayukai](https://github.com/Iosevka-Mayukai)
